@@ -41,7 +41,7 @@ Web
 
 - Othello Web Game - https://othello.pp.ua
 - Personal Portfolio Website - https://gurleenrajput.online
-- Personal Contact Card - gurleenrajput.in
+- Personal Contact Card - https://gurleenrajput.in
 - UI Experiments & Concepts
 - Theme & Gradient Interface Systems
 
