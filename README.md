@@ -24,7 +24,6 @@ Design
 
 - Adobe Photoshop
 - Illustrator
-- Canva
 - AI Image Tools
 
 Web
