@@ -23,7 +23,8 @@ I like making things that are simple, elegant and satisfying to use.
 Design
 
 - Adobe Photoshop
-- Illustrator
+- Adobe Illustrator
+- Corel Draw
 - AI Image Tools
 
 Web
@@ -34,6 +35,12 @@ Web
 - GitHub Pages
 - Netlify
 - Vercel
+
+Video
+
+- Adobe Premiere Pro
+- Adobe After Effects
+- DaVinci Resolve
 
 ---
 
