@@ -39,8 +39,9 @@ Web
 
 🧩 Projects
 
-- Othello Web Game
-- Personal Portfolio Website
+- Othello Web Game - othello.pp.ua
+- Personal Portfolio Website - gurleenrajput.online
+- Personal Contact Card -
 - UI Experiments & Concepts
 - Theme & Gradient Interface Systems
 
