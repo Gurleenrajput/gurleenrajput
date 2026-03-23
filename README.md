@@ -31,7 +31,6 @@ Web
 
 - HTML
 - CSS
-- JavaScript
 - GitHub Pages
 - Netlify
 - Vercel
